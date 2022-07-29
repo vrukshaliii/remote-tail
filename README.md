@@ -13,6 +13,6 @@
 
 ### I have made this in two ways:
 
-1. [AWS as a Server and Local Client.]()
+1. [AWS as a Server and Local Client.](https://github.com/Vrukshali-26/remote-tail/blob/main/local-AWS/README.md)
 
-2. [Server in Docker Container(local) and Local Client.]()
+2. [Server in Docker Container(local) and Local Client.](https://github.com/Vrukshali-26/remote-tail/blob/main/local-docker/README.md)
